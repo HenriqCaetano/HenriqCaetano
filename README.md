@@ -1,8 +1,9 @@
 # Olá! Sou o Henrique Caetano
 
-* ✨ Sou interessado em ciência e análise de dados e desenvolvimento de software.
-* 💻 Atualmente aprendendo data science, node.js e react.
+* ✨ Sou interessado em engeharia e ciência de dados e desenvolvimento de jogos.
+* 💻 Atualmente aprendendo ferramentas de engenharia de dados e unity.
 * ⚙️ Desenvolvi um sistema de controle de velocidade para um andador inteligente.
+* 
 
 
 
