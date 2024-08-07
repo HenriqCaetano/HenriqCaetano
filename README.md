@@ -1,9 +1,8 @@
 # Olá! Sou o Henrique Caetano
 
-* ✨ Sou interessado em engeharia e ciência de dados e desenvolvimento de jogos.
-* 💻 Atualmente aprendendo ferramentas de engenharia de dados e unity.
+* ✨ Sou interessado em engenharia e ciência de dados e desenvolvimento de jogos.
 * ⚙️ Desenvolvi um sistema de controle de velocidade para um andador inteligente.
-* 
+* ⚙️ Desenvolvi a infraestrutura de dados de um painel sobre desinformação climática
 
 
 
